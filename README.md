@@ -7,4 +7,5 @@ POS terminal application for train ticket sales GUI:
 <li>Computes and outputs purchase details</li>
 <br>
 Feel free to examine the source code or run this in an IDE to witness its execution! 
+<br>
 Be sure to run from TrainTickets.java.
