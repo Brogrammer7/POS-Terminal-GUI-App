@@ -9,4 +9,4 @@ POS terminal application for train ticket sales GUI:
 Feel free to examine the source code or run this in an IDE to witness its execution! 
 <br>
 <br>
-Be sure to run from TrainTickets.java.
+*Run app from TrainTickets.java
